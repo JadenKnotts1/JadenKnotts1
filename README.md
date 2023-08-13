@@ -4,10 +4,9 @@
                                
 - <b>Installing and Configuring Active Directory</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Virtual Environment with a Windows client</b>
-  - [Creating a Python Virtual Environment with a Windows client](https://github.com/JadenKnotts1/Creating-a-Python-Virtual-Environment-with-a-Windows-client.git))
-- <b>Creating a VM using Windows Server 2016</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Virtualization with a Windows client</b>
+  - [Creating a Python Virtual Environment with a Windows client](https://github.com/JadenKnotts1/Creating-a-Python-Virtual-Environment-with-a-Windows-client.git)
+  - [Creating a VM using Windows 2016 Server](https://github.com/joshmadakor1/Algorithms-Practice)
  
 
 
