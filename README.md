@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Tech Projects:</h2
                                
-- <b>Pi-Hole DNS/DHCP Server</b>
+- <b>Installing and Configuring Active Directory</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Virtual Environment with a Windows client</b>
   - [Creating a Python Virtual Environment with a Windows client](https://github.com/JadenKnotts1/Creating-a-Python-Virtual-Environment-with-a-Windows-client.git))
