@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jaden! <br/><a href="https://github.com/Jadenknotts1" >Information Assurance Student</a></a>, <a href= "https://www.linkedin.com/in/jaden-knotts-12854a246/">Cybersecurity Student</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2
+<h2>👨‍💻 Technology Projects:</h2
                                
 - <b>Pi-Hole DNS/DHCP Server</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
