@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Virtualization with a Windows client</b>
   - [Creating a Python Virtual Environment with a Windows client](https://github.com/JadenKnotts1/Creating-a-Python-Virtual-Environment-with-a-Windows-client.git)
-  - [Creating a VM using Windows 2016 Server](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a VM using Windows 2016 Server](https://github.com/JadenKnotts1/Creating-a-VM-using-Windows-2016-Server/blob/main/README.md)
  
 
 
