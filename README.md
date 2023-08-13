@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaden! <br/><a href="https://github.com/Jadenknotts1" >Information Assurance Student</a></a>, <a href= "https://www.linkedin.com/in/jaden-knotts-12854a246/">Cybersecurity Student</a>
+<h1>Hi, I'm Jaden! <br/><a href="https://www.linkedin.com/in/jaden-knotts-12854a246/" >Cybersecurity & Information Assurance Student</a></a>
 
 <h2>👨‍💻 Tech Projects:</h2
                                
