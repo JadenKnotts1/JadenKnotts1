@@ -3,7 +3,7 @@
 <h2>👨‍💻 Tech Projects:</h2
                                
 - <b>Active Directory</b>
-  - [Installing Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Installing Active Directory](https://github.com/JadenKnotts1/Installing-Active-Directory/blob/main/README.md)
   - [Active Directory Bulk User Creation](https://github.com/JadenKnotts1/Active-Directory-Bulk-User-Creation/blob/main/README.md)
 - <b>Virtualization with a Windows client</b>
   - [Creating a Python Virtual Environment with a Windows client](https://github.com/JadenKnotts1/Creating-a-Python-Virtual-Environment-with-a-Windows-client.git)
