@@ -1,13 +1,14 @@
 <h1>Hi, I'm Jaden! <br/><a href="https://www.linkedin.com/in/jaden-knotts-12854a246/" >Cybersecurity & Information Assurance Student</a></a>
 
-<h2>👨‍💻 Tech Projects:</h2
+<h2>👨‍💻 Projects:</h2
                                
-- <b>Active Directory</b>
-  - [Installing Active Directory](https://github.com/JadenKnotts1/Installing-Active-Directory/blob/main/README.md)
-  - [Active Directory Bulk User Creation](https://github.com/JadenKnotts1/Active-Directory-Bulk-User-Creation/blob/main/README.md)
+- <b>Project 1 </b>
+  - [Phishing Email Analysis](https://github.com/JadenKnotts1/Installing-Active-Directory/blob/main/README.md)
+- <b>Project 2 </b>
+   - [Malware Traffic Analysis](https://github.com/JadenKnotts1/Active-Directory-Bulk-User-Creation/blob/main/README.md)
+   - <b>Project 3 </b>
 - <b>Virtualization with a Windows client</b>
-  - [Creating a Python Virtual Environment with a Windows client](https://github.com/JadenKnotts1/Creating-a-Python-Virtual-Environment-with-a-Windows-client.git)
-  - [Creating a VM using Windows 2016 Server](https://github.com/JadenKnotts1/Creating-a-VM-using-Windows-2016-Server/blob/main/README.md)
+  - [Elastic SIEM HomeLab](https://github.com/JadenKnotts1/Creating-a-
  
 
 
