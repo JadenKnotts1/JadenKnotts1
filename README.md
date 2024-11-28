@@ -6,9 +6,9 @@
   - [Phishing Email Analysis](https://github.com/JadenKnotts1/Installing-Active-Directory/blob/main/README.md)
 - <b>Project 2 </b>
    - [Malware Traffic Analysis](https://github.com/JadenKnotts1/Active-Directory-Bulk-User-Creation/blob/main/README.md)
-   - <b>Project 3 </b>
-- <b>Virtualization with a Windows client</b>
-  - [Elastic SIEM HomeLab](https://github.com/JadenKnotts1/Creating-a-
+     
+- <b>Project 3 </b>
+  - [Elastic SIEM HomeLab](https://github.com/JadenKnotts1/Active-Directory-Bulk-User-Creation/blob/main/README.md)
  
 
 
